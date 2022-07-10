@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- ### Hey, I'm Aman Narang 👋 -->
  ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=edf4f7&vCenter=true&lines=Hey+👋,+I'm+Aman+Narang)
 
-<img align="right" alt="GIF" width="300px" height="250px" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" />
+<img align="right" alt="GIF" width="100px" height="50px" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" />
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=eg7409&color=brightgreen) -->
 [![Github](https://img.shields.io/github/followers/aman-narang?label=Follow&style=social)](https://github.com/aman-narang)
